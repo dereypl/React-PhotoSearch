@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-PhotoSearch/static/css/main.8a8b11b9.chunk.css",
+    "main.js": "/React-PhotoSearch/static/js/main.c1618088.chunk.js",
+    "main.js.map": "/React-PhotoSearch/static/js/main.c1618088.chunk.js.map",
+    "runtime~main.js": "/React-PhotoSearch/static/js/runtime~main.8f8f7607.js",
+    "runtime~main.js.map": "/React-PhotoSearch/static/js/runtime~main.8f8f7607.js.map",
+    "static/js/2.7df7d174.chunk.js": "/React-PhotoSearch/static/js/2.7df7d174.chunk.js",
+    "static/js/2.7df7d174.chunk.js.map": "/React-PhotoSearch/static/js/2.7df7d174.chunk.js.map",
+    "index.html": "/React-PhotoSearch/index.html",
+    "precache-manifest.ad6b44bd79ee9a99e1c5d828e44ff26a.js": "/React-PhotoSearch/precache-manifest.ad6b44bd79ee9a99e1c5d828e44ff26a.js",
+    "service-worker.js": "/React-PhotoSearch/service-worker.js",
+    "static/css/main.8a8b11b9.chunk.css.map": "/React-PhotoSearch/static/css/main.8a8b11b9.chunk.css.map"
+  }
+}

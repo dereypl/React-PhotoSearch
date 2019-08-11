@@ -13,7 +13,7 @@ class SearchBar extends React.Component {
 
     render () {
         return <div className="ui segment">
-            <form className="ui from" onSubmit={this.onFormSubmit}>
+            <form className="ui from" onSubmit={this.onFormSubmit} >
                 <div className="field">
                     <label>Image Search: </label>
                     <div className="ui input">
